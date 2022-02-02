@@ -1,4 +1,4 @@
-%Atoms
+% Atoms
 
 kazimierzIISprawiedliwy.
 leszekBialy.
@@ -22,7 +22,7 @@ wladyslawBialy.
 ksiazetaMazowieccy.
 
 
-%Facts
+% Facts
  
 man(kazimierzIISprawiedliwy).
 man(leszekBialy).
