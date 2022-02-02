@@ -3,6 +3,7 @@
 
 Opis wykonany jest w języku Prolog. Opisane zostały atomy, fakty oraz reguły.
 
+
 Użyte reguły:
 
 members.
