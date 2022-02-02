@@ -4,7 +4,7 @@
 Opis wykonany jest w języku Prolog. Opisane zostały atomy, fakty oraz reguły.
 
 
-Użyte reguły:
+- Użyte reguły:
 
 members.
 when_they_died.
